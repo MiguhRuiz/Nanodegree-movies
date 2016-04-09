@@ -14,4 +14,5 @@ option3 = definitions.Film("The Social Network",
                           "lB95KLmpLR4")
 
 movies = [option1, option2, option3]
+# Run 'open_movies_page' function in order to generate the HTML file of the website
 fresh_tomatoes.open_movies_page(movies)
